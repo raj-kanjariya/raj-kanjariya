@@ -7,7 +7,7 @@ VR/AR Devloper and Web Devloper
 "As a passionate Unity VR/AR game and simulation developer with a knack for pushing boundaries in immersive experiences, I bring innovation to the digital realm. Additionally, I dabble in web development, exploring the intersection of virtual and online spaces. Committed to creating captivating interactive solutions, my code is a fusion of creativity and technical prowess. Let's build the future of digital experiences together!"
 
 * 🌍  I'm based in Gujarat, India
-* 🚀  I'm currently working on [3d Surgical VR](http://https://www.oculus.com/deeplink/?action=view&path=app/5379050108874597&ref=oculus_desktop)
+* 🚀  I'm currently working on [3d Surgical VR](https://www.meta.com/experiences/5379050108874597/)
 * 🧠  I'm learning VTK.js
 
 <a href="https://www.github.com/raj-kanjariya" target="_blank" rel="noreferrer"><img
