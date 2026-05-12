@@ -92,10 +92,10 @@ src="https://img.shields.io/github/followers/raj-kanjariya?logo=github&style=for
 
 ### Badges
 
-<b>My GitHub Stats</b>
+**My GitHub Stats**
 
-<a href="http://www.github.com/raj-kanjariya"><img src="https://github-readme-stats.vercel.app/api?username=raj-kanjariya&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="raj-kanjariya's GitHub stats" /></a>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raj-kanjariya&show_icons=true&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917)](https://github.com/raj-kanjariya)
 
-<a href="http://www.github.com/raj-kanjariya"><img src="https://github-readme-streak-stats.herokuapp.com/?user=raj-kanjariya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=0891b2&dates=ffffff&hide_border=true" alt="GitHub streak stats" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raj-kanjariya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=0891b2&dates=ffffff&hide_border=true)](https://github.com/raj-kanjariya)
 
-<a href="https://github.com/raj-kanjariya" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj-kanjariya&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raj-kanjariya&layout=compact&langs_count=8&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917)](https://github.com/raj-kanjariya)
