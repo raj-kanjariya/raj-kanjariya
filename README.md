@@ -1,4 +1,4 @@
-Hi 👋 My name is Raj Kanjariya
+Hi 👋 I am Raj Kanjariya
 =====================================================================================================================================
 
 Healthcare Technology Researcher | Project Scientist | Unity XR Developer
